@@ -13,3 +13,4 @@ variable "aws_instance_type" {
 variable "aws_instance_tag" {
   description = "value for tag"
 }
+
